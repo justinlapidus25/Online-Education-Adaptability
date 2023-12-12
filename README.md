@@ -54,7 +54,6 @@ EDA involves exploring relationships between various categorical features and th
 
 ### Gaussian Naive Bayes Pipeline:
 #### Accuracy: 62.24%
-## Worst Performing Model
 
 ![download-2](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/bc0330e6-85ca-4fc1-b443-a91b35989274)
 ## Overall Conclusion:
