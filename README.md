@@ -29,7 +29,11 @@ EDA involves exploring relationships between various categorical features and th
 <img width="753" alt="Screen Shot 2023-12-12 at 12 30 00 PM" src="https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/60bf6ceb-c021-4651-b50c-ae8e9dad8f90">
 <img width="750" alt="Screen Shot 2023-12-12 at 12 29 49 PM" src="https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/f6e293fc-587f-4398-bd00-24f137c07331">
 
-![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/74ffc7ac-ffe6-4948-b414-53e8317d75d7)
+
+<p align="center">
+  <![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/74ffc7ac-ffe6-4948-b414-53e8317d75d7)
+>
+</p>
 
 
 ## Model Pipelines and Accuracy Scores
