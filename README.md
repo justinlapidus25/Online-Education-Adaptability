@@ -27,33 +27,29 @@ EDA involves exploring relationships between various categorical features and th
 
 
 
-## Model Pipelines and Accuracy Scores
+## Model Evaluation Summary:
 
-### Logistic Regression Pipeline
+### Logistic Regression Pipeline:
+#### Accuracy: 71.37%
 
-- Accuracy: 71.37%
+### Random Forest Classifier Pipeline:
+#### Accuracy: 89.21%
+#### Best Hyperparameters: {'n_estimators': 200, 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 1}
 
-### Random Forest Classifier Pipeline
+### XGB Classifier Pipeline:
+#### Accuracy: 91.29%
+#### Best Hyperparameters: {'learning_rate': 0.2, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 200}
 
-- Accuracy: 89.21%
+### SVM Pipeline:
+#### Accuracy: 86.72%
+#### Best Hyperparameters: {'C': 1, 'kernel': 'rbf', 'gamma': 'scale'}
 
-### XGB Classifier Pipeline
+### Decision Tree Classifier Pipeline:
+#### Accuracy: 90.87%
+#### Best Hyperparameters: {'max_depth': 15, 'min_samples_leaf': 1, 'min_samples_split': 2}
 
-- Accuracy: 91.29%
-![download-1](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/9ad536b3-a90b-4a4d-9776-01256d2da7a0)
+### Gaussian Naive Bayes Pipeline:
+#### Accuracy: 62.24%
 
-### SVM Pipeline
-
-- Accuracy: 86.72%
-
-### Decision Tree Classifier Pipeline
-
-- Accuracy: 90.87%
-
-### Gaussian Naive Bayes Pipeline
-
-- Accuracy: 62.24%
-![download-2](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/a8e73315-a614-48c4-b9d0-6be6fed7dfc0)
-
-
-These accuracy scores represent the performance of each model in predicting students' adaptability levels in online education. The XGB Classifier pipeline achieved the highest accuracy among the models evaluated.
+## Overall Conclusion:
+#### Among the models tested, the XGB Classifier pipeline achieved the highest accuracy at 91.29%, closely followed by the Random Forest Classifier with an accuracy of 89.21%. The choice of the best model depends on various factors, including the specific requirements of the problem, interpretability, and computational resources. It's essential to consider other metrics, such as precision, recall, and F1-score, to get a more comprehensive understanding of the model's performance, especially in imbalanced datasets. 
