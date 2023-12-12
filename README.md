@@ -1,5 +1,5 @@
 
-https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/bf0288bc-182a-49c0-a661-942303ddd585
+![banner image](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/f8274048-bb4a-4a4c-8d46-657d014e176e)
 
 
 # Online-Education-Adaptability
