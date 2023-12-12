@@ -39,7 +39,6 @@ EDA involves exploring relationships between various categorical features and th
 #### Best Hyperparameters: {'learning_rate': 0.2, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 200}
 
 ![download-1](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/e33c5aa2-690e-4027-817c-b15efaf8f4c1)
-
 ## Best Peforming Model
 
 ### SVM Pipeline:
@@ -55,7 +54,6 @@ EDA involves exploring relationships between various categorical features and th
 ## Worst Performing Model
 
 ![download-2](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/bc0330e6-85ca-4fc1-b443-a91b35989274)
-
 ## Overall Conclusion:
 
 ## Among the models tested, the XGB Classifier pipeline achieved the highest accuracy at 91.29%, closely followed by the Random Forest Classifier with an accuracy of 89.21%. The choice of the best model depends on various factors, including the specific requirements of the problem, interpretability, and computational resources. It's essential to consider other metrics, such as precision, recall, and F1-score, to get a more comprehensive understanding of the model's performance, especially in imbalanced datasets. 
