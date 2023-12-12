@@ -1,4 +1,4 @@
-<img src="https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/bc5dad8c-06ed-405c-8f6e-fecfd5ccaa15" alt="Banner Image" width="100%">
+<img src="https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/bc5dad8c-06ed-405c-8f6e-fecfd5ccaa15" alt="Banner Image" width="200%">
 
 # Online Education Adaptability Prediction
 
