@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="dsgafsfd.png" alt="Banner Image Alt Text">
+</p>
 # Online-Education-Adaptability
 
 Certainly! Below is a simplified version formatted as a README:
