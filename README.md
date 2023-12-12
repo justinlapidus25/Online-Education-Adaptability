@@ -34,12 +34,13 @@ EDA involves exploring relationships between various categorical features and th
 #### Accuracy: 89.21%
 #### Best Hyperparameters: {'n_estimators': 200, 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 1}
 
+## Best Peforming Model
+
 ### XGB Classifier Pipeline:
 #### Accuracy: 91.29%
 #### Best Hyperparameters: {'learning_rate': 0.2, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 200}
 
 ![download-1](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/e33c5aa2-690e-4027-817c-b15efaf8f4c1)
-## Best Peforming Model
 
 ### SVM Pipeline:
 #### Accuracy: 86.72%
@@ -48,6 +49,8 @@ EDA involves exploring relationships between various categorical features and th
 ### Decision Tree Classifier Pipeline:
 #### Accuracy: 90.87%
 #### Best Hyperparameters: {'max_depth': 15, 'min_samples_leaf': 1, 'min_samples_split': 2}
+
+## Worst Performing Model
 
 ### Gaussian Naive Bayes Pipeline:
 #### Accuracy: 62.24%
