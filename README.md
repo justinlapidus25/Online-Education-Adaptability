@@ -1,4 +1,4 @@
-![Banner](dowlonads/images.jpg)
+![Banner](banner%20image.jpeg)
 
 # Online-Education-Adaptability
 
