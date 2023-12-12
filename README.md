@@ -25,9 +25,7 @@ Unique values for each column are displayed to understand categorical features. 
 EDA involves exploring relationships between various categorical features and the target variable 'Adaptivity Level' using count plots. A correlation heatmap is also plotted to visualize the correlation between different features.
 
 <p align="center">
-  <![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/74ffc7ac-ffe6-4948-b414-53e8317d75d7)
->
-</p>
+<![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/d3b536d7-bbf2-4e73-9f1b-246634b14c50)>
 
 
 ## Model Pipelines and Accuracy Scores
