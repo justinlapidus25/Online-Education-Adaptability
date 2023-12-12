@@ -23,8 +23,8 @@ Unique values for each column are displayed to understand categorical features. 
 ## Exploratory Data Analysis (EDA)
 
 EDA involves exploring relationships between various categorical features and the target variable 'Adaptivity Level' using count plots. A correlation heatmap is also plotted to visualize the correlation between different features.
+![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/24725692-f883-46ea-870d-fcf8d105db86)
 
-![download](https://github.com/justinlapidus25/Online-Education-Adaptability/assets/130884190/0eb6a4df-7fbe-4941-b347-656d2b14e53a)
 
 
 ## Model Pipelines and Accuracy Scores
